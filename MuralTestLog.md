@@ -12,7 +12,7 @@ These are the steps I followed
 4. Add the contents of the unzipped .zip folder to this repo
 5. Go to repo settings > Github Pages and initiate pages by choosing source: main folder: root
 6. Then went to https://merandagp.github.io/Muraltest/ to look at my work! Here's what it looked like: 
-![Screencap of Mural Test](MuralCapture.Nov8.png)
+![Screencap of Mural Test](MuralCapture.Nov8.PNG)
 
 ### Results reflection
 I am just so happy that it worked! I had some issues with the static websites tutorial so I was worried that my logic was flawed in thinking so this was a nice confidence boost. And helped me prove to myself that I am learning, and sometimes (most times) trial and error are great teachers. This was a perfect example of using technology to solve a problem, rather than letting the tech be a problem. It was hard for me to undertsand how I would go about setting up a way to host my Mural with my current resources, but sometimes the answers are hidden right under our nose with the resources we already have. 
