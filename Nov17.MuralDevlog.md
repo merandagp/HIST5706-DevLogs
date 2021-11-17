@@ -15,8 +15,7 @@ I'm still working through a storyboard outline but wanted to work on getting at 
 
 From the Google Sheets-To-Maps tutorial I completed during the Digital Tune Up module, I learned how to embed a Google My Map into a static site. I used a very similar technique to embed a map into my mural story, but there were a few hiccups along the way: 
 1. Created a Google My Map with an outline of the borders of Mechanicsville
-2. Share the map with anyone who has the link, go to "Embed on my site" and copy the following code"
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZgfCu_Ko2rJwbjM6-2Kj09ojY23xz_9a" width="640" height="480"></iframe>
+2. Share the map with anyone who has the link, go to "Embed on my site" and copy the following code: <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZgfCu_Ko2rJwbjM6-2Kj09ojY23xz_9a" width="640" height="480"></iframe>
 3. Add this code to the text section in the Mural editor
 4. Export the story, unzip the .zip folder with the exported Mural content, add this content to github repo and enable pages
 5. This is when I noticed a slight issue, I guess in the export process, the embed code got slightly jumbled and characters were added that broke the code
