@@ -22,6 +22,7 @@ From the Google Sheets-To-Maps tutorial I completed during the Digital Tune Up m
 5. This is when I noticed a slight issue, I guess in the export process, the embed code got slightly jumbled and characters were added that broke the code
 6. To fix this, go into the index.HTML file in the repo and clean up the embed code 
 7. Commit changes and voila!
+
 ![Google My Maps in Mural](Nov17.GoogleMyMapsEmbed.PNG)
 
 ### Adding Photos
