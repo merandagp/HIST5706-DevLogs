@@ -25,8 +25,7 @@ From the Google Sheets-To-Maps tutorial I completed during the Digital Tune Up m
 ![Google My Maps in Mural](Nov17.GoogleMyMapsEmbed.PNG)
 
 ### Adding Photos
-While working, I looked into why Mural asks for multiple sizes for images. All the information is on their webside [here](https://www.getmural.io/docs/image-workflow/). Essentially, the different sizes will help make the website accessible on various devices. This is something really important for me to consider if I use Mural in another capacity but for now, I want to focus on creating a proof-of-concept that can be polished later on. To save time, I won't be resizing the images I'm using but if I find myself with additional time later on, I will be sure to do so. 
+While working, I looked into why Mural asks for multiple sizes for images. All the information is on their website [here](https://www.getmural.io/docs/image-workflow/). Essentially, the different sizes will help make the website accessible on various devices. This is something really important for me to consider if I use Mural in another capacity but for now, I want to focus on creating a proof-of-concept that can be polished later on. To save time, I won't be resizing the images I'm using but if I find myself with additional time later on, I will be sure to do so. 
 
 ### Next steps
 At this point, I really need to complete a storyboard to help direct the rest of the content I'll be adding to my Mural and then populate the story. 
-
