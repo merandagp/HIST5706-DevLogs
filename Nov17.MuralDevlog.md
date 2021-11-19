@@ -6,7 +6,7 @@ Today, I worked on adding a photo to the landing page of my Mural story and star
 
 ### Landing Page Photo
 After asking in the discord for help, I followed Dr. Graham's advice:
-1. I added a photo to the github repo that will eventually host my Mural story which can be found here: https://github.com/merandagp/MyMechanicsvilleMemories and the actual deloyment of the site is here: https://merandagp.github.io/MyMechanicsvilleMemories/
+1. I added a photo to the github repo that will eventually host my Mural story which can be found here: https://github.com/merandagp/MyMechanicsvilleMemories and the actual deloyment of the site is here: https://merandagp.github.io/MyMechanicsvilleMemories/ (volume warning, particularly for headphone users!)
 2. I copied the url (https://github.com/merandagp/MyMechanicsvilleMemories/blob/main/Hincheyc1980.jpg?raw=true) for the photo in the repo to the Mural editor in the metadata section
 3. I knew I was going to be adding more content to my story in this work session so I waited until after that to export the story and test if the image worked (spoiler, it did work!)
 
