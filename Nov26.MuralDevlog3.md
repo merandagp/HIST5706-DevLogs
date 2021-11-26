@@ -22,7 +22,7 @@ When I sent my story to someone to show them what I was working on, their ears w
 I decided the easiest way would be to include a warning about the website's use of audio on the website's landing page. The only difficulty with this is that the Mural editor only allows you to customize the story name and background photo on the landing page. As my workaround, I relied on my pretty basic understanding of HTML to add a warning line. 
 
 What I did was edit the index.html file once it was uploaded to my github repo. I went to the story-name line and added this underneath:
-<h3 class="content-warning">This website uses audio, be concious of your volume settings before opening</h3>
+h3 class="content-warning">This website uses audio, be concious of your volume settings before opening</h3
 
 ### Things may be getting out of hand... 
 
