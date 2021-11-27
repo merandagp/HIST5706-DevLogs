@@ -9,7 +9,7 @@ This week, my focus was on content. I was finally able to outline my story and d
 4. The Street
 5. The Sidewalk
 
-My plan was that each part shares a small snapshot of my memories and feelings towards Mechanicsville in conversation with the oral history interviews I had already recorded with my parents. I wanted to vary the chapters by using different temporal frameworks (ex. starting with the present then going back to the past or opening with a memory and circling back to the present, etc.) and a variety of multimedia (video, photos, audio). While it was a more productive week than I expected, there were obviously some hiccups.
+My plan was that each part shares a small snapshot of my memories and feelings towards Mechanicsville in conversation with the oral history interviews I had already recorded with my parents. The main story I want to tell is one of acceptance of change as a neutral and necessary part of place. I wanted to vary the chapters by using different temporal frameworks (ex. starting with the present then going back to the past or opening with a memory and circling back to the present, etc.) and a variety of multimedia (video, photos, audio). While it was a more productive week than I expected, there were obviously some hiccups.
 
 ### Creating the chapters
 
