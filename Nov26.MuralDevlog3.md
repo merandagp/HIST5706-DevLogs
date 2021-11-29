@@ -24,15 +24,6 @@ I decided the easiest way would be to include a warning about the website's use 
 What I did was edit the index.html file once it was uploaded to my github repo. I went to the story-name line and added this underneath:
 h3 class="content-warning">This website uses audio, be concious of your volume settings before opening</h3
 
-#### Nov 28 Another code addition
-
-As I've been working through some more of the finer elements of user design, I started noticing how annoying and confusing the zoom in and out feature is on the embeded map. Since Mural relies on scrolling, I've been seeing how easy it is for users to accidentally scroll on the map and completely loose where Mechanicsville is! I was also starting to question how useful the map is in The Place (Revisited) since it's purpose in the introduction is to help orient users. So after careful consideration, I removed it from the conclusion but still needed to work on the zooming in/out...
-
-To counter act this, I found a [video](https://www.youtube.com/watch?v=RBsjk3Cuf3s&list=WL&index=31&t=29s&ab_channel=KoriAshton) that helps explain some code that I can add into the index.html doc that will remove this feature. Here is what I need to add to the iframe code: 
-style="pointer-events: none;"
-
-I put this note here as a reminder to future me when I have to go into the .html to add the volume warning anyway!
-
 ### Things may be getting out of hand... 
 
 Honestly, things were going much better than I imagined they would… That's when you should always be nervous. With two of the main chapters done, I decided I wanted to see what it would look like by putting my mural story onto github again. I had a few issues this time, the first being I forgot to upload my "uploads" folder which meant that there was no multimedia content for my story (facepalm). But I got over that hurdle once I realized it was missing and then added the folder. As I was adding the multimedia content, I got a warning code from github:
