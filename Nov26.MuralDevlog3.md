@@ -26,7 +26,7 @@ h3 class="content-warning">This website uses audio, be concious of your volume s
 
 #### Nov 28 Another code addition
 
-As I've been working through some more of the finer elements of user design, I started noticing how annoying and confusing the zoom in and out feature is on the embeded map. Since Mural relies on scrolling, I've been seeing how easy it is for users to accidentally scroll on the map and completely loose where Mechanicsville is! 
+As I've been working through some more of the finer elements of user design, I started noticing how annoying and confusing the zoom in and out feature is on the embeded map. Since Mural relies on scrolling, I've been seeing how easy it is for users to accidentally scroll on the map and completely loose where Mechanicsville is! I was also starting to question how useful the map is in The Place (Revisited) since it's purpose in the introduction is to help orient users. So after careful consideration, I removed it from the conclusion but still needed to work on the zooming in/out...
 
 To counter act this, I found a [video](https://www.youtube.com/watch?v=RBsjk3Cuf3s&list=WL&index=31&t=29s&ab_channel=KoriAshton) that helps explain some code that I can add into the index.html doc that will remove this feature. Here is what I need to add to the iframe code: 
 style="pointer-events: none;"
