@@ -5,6 +5,7 @@
 
 **December 10, 2021**
 
+
 Paradata is a peek behind the curtain of a digital history project. This document outlines the motivations for creation of My Mechanicsville Memories, the relevant theoretical frameworks, and addresses the decision-making processes that formed this project. 
 
 ## Why has this project been created? 
@@ -40,7 +41,8 @@ Moving forward, I would like to further explore the capabilities of Scrollytelli
 [^5]: Amabili, “From Storytelling to Scrollytelling: A Short Introduction and Beyond*”. 
 [^6]: “How Mural Works,” Mural, accessed December 3, 2021, https://www.getmural.io/docs/how-it-works/.
 
-**Bibliography**
+
+### Bibliography
 
 Adams, Tony E., Stacy Holman Jones, and Carolyn Ellis. *Autoethnography*. New York: Oxford University Press, 2015. 
 
