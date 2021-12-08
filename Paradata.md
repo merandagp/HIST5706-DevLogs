@@ -1,6 +1,8 @@
 # *My Mechanicsville Memories*: Paradata
 Written by Meranda Gallupe-Paton
+
 Created for HIST5706: Digital History with Dr. Shawn Graham
+
 December 10, 2021
 
 ## Introduction
@@ -34,9 +36,13 @@ Moving forward, I would like to further explore the capabilities of scrollytelli
 
 **Bibliography**
 Adams, Tony E., Stacy Holman Jones, and Carolyn Ellis. *Autoethnography*. New York: Oxford University Press, 2015. 
+
 Amabili, Lorenzo. “From Storytelling to Scrollytelling: A Short Introduction and Beyond*.” Medium, August 22, 2019. https://medium.com/nightingale/from-storytelling-to-scrollytelling-a-short-introduction-and-beyond-fbda32066964. 
+
 “How Mural Works.” Mural. Accessed December 3, 2021. https://www.getmural.io/docs/how-it-works/. 
+
 Meadows, Daniel. “Digital Storytelling: Research-Based Practice in New Media.” *Visual Communication* 2, 2 (2003): 189-193. 
+
 Pensoneau-Conway, Sandra L., Tony E. Adams, and Derek M. Bolen, eds. *Doing Autoethnography*. Sense Publishers, 2017. 
 
 [^1]: Sandra L. Pensoneau-Conway, Tony E. Adams, and Derek M. Bolen, eds., *Doing Autoethnography* (Sense Publishers, 2017), 3.
