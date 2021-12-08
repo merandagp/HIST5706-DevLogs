@@ -1,7 +1,7 @@
 # *My Mechanicsville Memories*: Paradata
-**Written by Meranda Gallupe-Paton
-Created for HIST5706: Digital History with Dr. Shawn Graham
-December 10, 2021**
+**Written by Meranda Gallupe-Paton**
+**Created for HIST5706: Digital History with Dr. Shawn Graham**
+**December 10, 2021**
 
 Paradata is a peek behind the curtain of a digital history project. This document outlines the motivations for creation of My Mechanicsville Memories, the relevant theoretical frameworks, and addresses the decision-making processes that formed this project. 
 
@@ -18,7 +18,7 @@ The primary theoretical framework for this project is autoethnography, an approa
 Digital storytelling in particular lends itself well to narratives that center the creator themselves, like autoethnographic work. The digital revolution gave a wider range of people the tools and ability to tell their own stories, rather than “[tolerating] media being done *to* us.”[^3] “Scrollytelling” is an evolution of digital storytelling. “Scrollytelling” stories are web-based experiences where “new content appears or changes through transitions as users scroll down or up the web page.”[^4] This format is popular for its immersive quality, giving audiences a “sense of control, exploration and discoverability inherent to scrolling.”[^5]
 
 ## Form/process
-My Mechanicsville Memories is a scrollystory and was created using [Mural](https://www.getmural.io/). Mural is described as “desktop app created with Electron” which you can use “to create rich scrollytelling stories with a simple to use form based interface and your curated multimedia content.”[^1] In essence, you download the Mural application which allows you to edit your website, upload media files, and  all in one intuitive platform. Once you finish your story, Mural exports your project with all the necessary code and content which can be uploaded to a web server and shared online. 
+My Mechanicsville Memories is a scrollystory and was created using [Mural](https://www.getmural.io/). Mural is described as “desktop app created with Electron” which you can use “to create rich scrollytelling stories with a simple to use form based interface and your curated multimedia content.”[^6] In essence, you download the Mural application which allows you to edit your website, upload media files, and  all in one intuitive platform. Once you finish your story, Mural exports your project with all the necessary code and content which can be uploaded to a web server and shared online. 
 
 Mural gave me a lot of freedom while still being slightly confined and having my hand held in the website-making process. What drew me to Mural was how easy-to-use their editor was and how it yielded beautiful results. With Mural, it didn’t feel like my beginner-intermediate level technology knowledge was a barrier to entry. I started creating My Mechanicsville Memories with some basic skills with html and website knowledge, but not confident by any means. This was frustrating before I found Mural because I wanted my project to appear polished, but knew that my limited timeline wouldn’t account for the steep learning curve necessary to fully grasp a coding language. I struggled with what I thought were “basic concepts”, like creating static websites through github or embedding a Google My Map. With hindsight, I see that these were the times where I learned the most and gained the skills that would be necessary for creating my final project. I started seeing connections that linked all the things I was learning and saw how to use what I learned to solve later problems. I began to see technology as a vehicle for my vision, rather than a mountain to conquer. 
 
@@ -31,7 +31,6 @@ Like any digital history, my work has limitations. This story is clearly only te
 
 Moving forward, I would like to further explore the capabilities of Scrollytelling and how it could be used to showcase a wider range of narratives. One way I have envisioned to include counter-narratives, is to create a open-navigation virtual exhibit which includes a handful of short “scrollytelling stories” about specific themes, similar to My Mechanicsville Memories, and that allows the audience to choose which one they experience, for how long, and in what order. This work is still in its preliminary stages and will need further investigation.
 
-***Notes***
 [^1]: Sandra L. Pensoneau-Conway, Tony E. Adams, and Derek M. Bolen, eds., *Doing Autoethnography* (Sense Publishers, 2017), 3.
 [^2]: Tony E. Adams, Stacy Holman Jones, and Carolyn Ellis, Autoethnography (New York: Oxford University Press, 2015), 39-40.
 [^3]: Daniel Meadows, “Digital Storytelling: Research-Based Practice in New Media,” *Visual Communication* 2, 2 (2003): 192. 
