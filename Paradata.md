@@ -1,7 +1,7 @@
-#*My Mechanicsville Memories*: Paradata
-#### Written by Meranda Gallupe-Paton
-#### Created for HIST5706: Digital History with Dr. Shawn Graham
-#### December 10, 2021
+# *My Mechanicsville Memories*: Paradata
+**Written by Meranda Gallupe-Paton
+Created for HIST5706: Digital History with Dr. Shawn Graham
+December 10, 2021**
 
 Paradata is a peek behind the curtain of a digital history project. This document outlines the motivations for creation of My Mechanicsville Memories, the relevant theoretical frameworks, and addresses the decision-making processes that formed this project. 
 
