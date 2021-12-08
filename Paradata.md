@@ -34,7 +34,7 @@ Like any digital history, my work has limitations. This story is clearly only te
 
 Moving forward, I would like to further explore the capabilities of scrollytelling and how it could be used to showcase a wider range of narratives. One way I have envisioned to include counter-narratives, is to create a open-navigation virtual exhibit which includes a handful of short scrollytelling stories about specific themes, similar to *My Mechanicsville Memories*, and that allows the audience to choose which one they experience, for how long, and in what order. This work is still in its preliminary stages and will need further investigation.
 
-**Bibliography**
+### Bibliography
 Adams, Tony E., Stacy Holman Jones, and Carolyn Ellis. *Autoethnography*. New York: Oxford University Press, 2015. 
 
 Amabili, Lorenzo. “From Storytelling to Scrollytelling: A Short Introduction and Beyond*.” Medium, August 22, 2019. https://medium.com/nightingale/from-storytelling-to-scrollytelling-a-short-introduction-and-beyond-fbda32066964. 
