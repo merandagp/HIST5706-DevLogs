@@ -5,7 +5,7 @@ Written by Meranda Gallupe-Paton, December 8, 2021
 Paradata is a peek behind the curtain of a digital history project. This document outlines the motivations for creation of *My Mechanicsville Memories*, the relevant theoretical frameworks, and addresses the decision-making processes that formed this project. 
 
 ## Why has this project been created? 
-*My Mechanicsville Memories* was created for the course HIST5706: Digital History at Carleton University in Fall 2021. This project is part of a larger research project that I am working on for my Master’s Research Project where I aim to explore this place-based memories of Mechanicsville, a once working class neighbourhood in Ottawa that is currently in the throes of gentrification. 
+*My Mechanicsville Memories* was created for the course HIST5706: Digital History at Carleton University in Fall 2021. This project is part of my Master’s Research Project where I aim to explore the place-based memories of Mechanicsville, a once working class neighbourhood in Ottawa that is currently in the throes of gentrification. 
 
 Working within the scope of this course, I focused on the storytelling elements of this work. I set out to start the process of crafting a narrative with the data I had collected thus far, namely oral history interviews and some audio/visual content I had collected of present-day Mechanicsville.
 
